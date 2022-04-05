@@ -1,0 +1,41 @@
+body {background-color:antiquewhite;
+}
+.titulo1{color:#E38D00;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.titulo2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:40px;
+}
+.parrafo1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.parrafo2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding:10px;
+    margin:5px;
+    border: solid 5px #E38D00;
+}
+.parrafo3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding:10px;
+    margin:5px;
+    border: solid 5px #E38D00;
+}
+.parrafo4{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding:10px;
+    margin:5px;
+    border: solid 5px #E38D00;
+}
